@@ -14,7 +14,7 @@ a, a:hover, a:visited {
     color: unset;
     text-decoration: none;
 }
-.dsmeta_container {
+.dsmeta-container {
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
