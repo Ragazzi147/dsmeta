@@ -10,7 +10,7 @@ function App() {
       <Header/>
       <main>
         <section id="sales">
-          <div className="dsmeta_container">
+          <div className="dsmeta-container">
             <SalesCard />
           </div>
         </section>

@@ -5,7 +5,7 @@ function NotificationButton() {
   
 
     return (
-        <div className="dsmeta_red_btn">
+        <div className="dsmeta-red-btn">
             <img src={icon} alt="Notificar"/>
         </div>
     )    
