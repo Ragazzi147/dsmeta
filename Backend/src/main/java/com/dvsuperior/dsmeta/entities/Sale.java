@@ -65,12 +65,12 @@ public class Sale {
 		this.amount = amount;
 	}
 
-	public LocalDate getData() {
+	public LocalDate getDate() {
 		return date;
 	}
 
-	public void setData(LocalDate data) {
-		this.date = data;
+	public void setDate(LocalDate date) {
+		this.date = date;
 	}
 
 	
